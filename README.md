@@ -48,7 +48,9 @@ can be used to control an LED.
 The LDR and 10 kΩ resistor are connected in series to form a voltage divider.
 The divider output is connected to an **analog input pin** of the Arduino.
 
-> 📷 See the `circuit/` folder for the wiring diagram.
+## 🔌 Circuit Design
+
+![LDR Light Controlled LED](circuit/wiring.jpg)
 
 ---
 
